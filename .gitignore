@@ -1,0 +1,51 @@
+# Virtual Environment.
+venv/
+env/
+.venv/
+.env/
+
+# VSCode / OS config files.
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Cache temporary files.
+*.sass-cache
+.cache/
+node_modules/
+
+# Python files.
+__pycache__/
+*.pyo
+*.pyd
+*.pyc
+
+
+# Config files and local parameters.
+*.local
+*.log
+*.pot
+*.swp
+*.swo
+*.DS_Store
+*.coverage
+local_settings.py
+
+# Log files.
+*.log
+
+# Tests directories (except app’s tests directories).
+/test/
+/tests/
+
+# compilation and deployment files.
+dist/
+build/
+*.egg-info/
+*.eggs/
+MANIFEST
+
+# Sensitives config files.
+*.env
+.env.*
