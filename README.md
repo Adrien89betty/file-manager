@@ -28,3 +28,5 @@ A lightweight macOS utility that automatically organizes your **Desktop** folder
 1. Go to the [Releases](https://github.com/Adrien89betty/file-manager/releases) page.
 2. Download :
    **FileManager.app** (GUI application) — available as a ZIP.
+3. Uncompress
+4. Move it to your Application folder and run it !
